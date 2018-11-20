@@ -1,0 +1,43 @@
+
+{
+    "SUBJID": "01-002",
+    "VISITNUM": 0,
+    "EXTRT": "Placebo",
+    "EXDOSE": 40,
+	"EXSOSU": "mg"
+  },
+ {
+    "SUBJID": "01-002",
+    "VISITNUM": 1,
+    "EXTRT": "Placebo",
+    "EXDOSE": 40,
+	"EXSOSU": "mg"
+  },
+   {
+    "SUBJID": "01-002",
+    "VISITNUM": 2,
+    "EXTRT": "Placebo",
+    "EXDOSE": 40,
+	"EXSOSU": "mg"
+  },
+   {
+    "SUBJID": "01-003",
+    "VISITNUM": 0,
+    "EXTRT": "Study Drug 1",
+    "EXDOSE": 40,
+	"EXSOSU": "mg"
+  },
+  {
+    "SUBJID": "01-003",
+    "VISITNUM": 1,
+    "EXTRT": "Study Drug 1",
+    "EXDOSE": 40,
+	"EXSOSU": "mg"
+  },  
+  {
+    "SUBJID": "01-003",
+    "VISITNUM": 2,
+    "EXTRT": "Study Drug 1",
+    "EXDOSE": 40,
+	"EXSOSU": "mg"
+}

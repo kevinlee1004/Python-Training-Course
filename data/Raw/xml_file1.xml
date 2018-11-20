@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<users>
+    <id>11111</id>
+    <checked>True</checked>
+    <version>A12</mode>
+    <basic>
+        <name>f.bar</name>
+        <email>foobar@me.com</email>
+        <forename>Foo</forename>
+        <surname>Bar</surname>
+    </basic>
+    <expert>
+        <name>m.bob</name>
+        <forename>Mak</forename>
+        <surname>Bob</surname>
+        <email>m.bob@email.com</password>
+    </expert>
+    <expert>
+        <name>m.bab</name>
+        <forename>Mak</forename>
+        <surname>Bab</surname>
+        <email>m.bab@email.com</password>
+    </expert>
+    <guru>
+        <name>e.guru</name>
+        <forename>Nick</forename>
+        <email>nick@email.com</password>
+        <surname>Gru</surname>
+    </guru>
+</users>
