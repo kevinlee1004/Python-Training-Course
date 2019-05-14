@@ -41,4 +41,18 @@ The training will consist of following sections.
       - Pair t-test
       - Fisher Exact Test
       - Survival Analysis - Log Rank Test
-6. Part 6: 
+6. Part 6: Data Visualization
+    - matplotlib 
+    - Scatter Plot
+    - Sub plot
+7. Part 7: Machine Learning
+    - Logistic Regression
+    - SVM
+    - DNN
+    - CNN
+8. Part 8: SDTM DM Creation
+    - import demographic, randomization, exposure, disposition data from the local drive
+    - merge and prepare data
+    - write CDISC DM.xpt to local drive
+
+For those who have never used Jupyter notebook, there is a document of "Instruction of Anaconda Installation" for Window. 
