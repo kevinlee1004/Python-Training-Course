@@ -1,4 +1,5 @@
-### Training materials printout will be available for the attendees.
+## Printout of training materials will be available for the attendees.
+
 # Python-Training-Course
 Python Training Courses for Data Analysis
 The training will consist of following sections.
